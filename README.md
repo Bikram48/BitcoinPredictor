@@ -5,12 +5,11 @@ This project aims to predict Bitcoin prices using historical data. We explore va
 
 Dependencies:
 To run the Jupyter notebooks in this repository, you will need the following libraries:
-• NumPy
-• Pandas
-• Matplotlib
-• mplfinance
-• Keras
-• Scikit-learn
+* NumPy
+* Pandas
+* Matplotlib
+* Keras
+* Scikit-learn
 
 Dataset:
 The dataset consists of minute-level price data of Bitcoin spanning from 2017 to 2021 (https://www.kaggle.com/datasets/prasoonkottarathil/btcinusd?select=BTC-2018min.csv). The data includes features such as open, high, low, close prices, and trading volume in BTC and USD.

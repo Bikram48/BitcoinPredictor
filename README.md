@@ -40,4 +40,5 @@ To replicate the findings and run the notebooks:
 3.	Install all required dependencies.
 4.	Run the Jupyter notebooks within the repository.
 
-### Project Demo - https://www.youtube.com/watch?v=4ujosI7b908&ab_channel=AyuShPrajapati
+### Project Demo 
+https://www.youtube.com/watch?v=4ujosI7b908&ab_channel=AyuShPrajapati
